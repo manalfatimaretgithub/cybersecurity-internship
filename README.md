@@ -16,7 +16,7 @@ Week by week cybersecurity learning &amp; assessment
 - ✅ Secure HTTP Headers (helmet)
 - ✅ Tested Register & Login API with Postman
 
-  Week 3 — Advanced Security & Final Reporting
+## Week 3 — Advanced Security & Final Reporting
 
 - ✅ Basic Penetration Testing with Nmap
 - ✅Simulated Unauthorized Access & Parameter Tampering
