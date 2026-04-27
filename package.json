@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "week3-security",
+=======
+  "name": "secure-app",
+>>>>>>> 1a2760c11b981c3014ddbd6004c81d7d239d374a
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +16,17 @@
   "type": "commonjs",
   "dependencies": {
     "bcrypt": "^6.0.0",
+<<<<<<< HEAD
     "express": "^5.2.1",
     "helmet": "^8.1.0",
     "winston": "^3.19.0"
+=======
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.4.1",
+    "validator": "^13.15.35"
+>>>>>>> 1a2760c11b981c3014ddbd6004c81d7d239d374a
   }
 }
