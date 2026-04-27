@@ -19,8 +19,13 @@ Week by week cybersecurity learning &amp; assessment
 ## Week 3 — Advanced Security & Final Reporting
 
 ✅ Basic Penetration Testing with Nmap
+
 ✅ Simulated Unauthorized Access & Parameter Tampering
+
 ✅ Verified JWT Middleware & Input Validation Effectiveness
+
 ✅ Integrated Winston Logging (Console + File)
+
 ✅ Logged Login Attempts & Failed Access Events
+
 ✅ Compiled Final Security Best Practices Checklist
